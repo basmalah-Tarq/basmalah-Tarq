@@ -7,10 +7,10 @@ I build modern, bilingual (Arabic / English) web and mobile products — from ap
 ### Selected work
 
 **[SmartQ](https://github.com/basmalah-Tarq/SmartQ)** — Queue management and appointment booking platform for clinics, banks and public offices, with a companion Android app. Transaction-safe booking engine (no double bookings), live queue tickets, email-code sign-in, and three role-based dashboards.
-<br><sub>PHP · MySQL · Java (Android) · REST API</sub>
+<br><sub>PHP · MySQL · Java (Android) · REST API &nbsp;·&nbsp; [Live demo](https://smartq.free.je)</sub>
 
 **[Midad](https://github.com/basmalah-Tarq/Midad)** — Bilingual e-library with search across 60,000+ public-domain books, a curated collection of Arabic classics, one-click downloads and a personal reading list. Ships as a static site.
-<br><sub>Next.js · React · TypeScript · Tailwind CSS</sub>
+<br><sub>Next.js · React · TypeScript · Tailwind CSS &nbsp;·&nbsp; [Live demo](https://basmalah-tarq.github.io/Midad/)</sub>
 
 ### Stack
 
