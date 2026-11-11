@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 46" width="225" height="46">
-  <rect width="225" height="46" rx="23" fill="#A3182F"/>
-  <rect x="5" y="5" width="36" height="36" rx="18" fill="#E8D6BF"/>
-  <text x="23" y="30" text-anchor="middle" font-size="18">🧰</text>
-  <text x="54" y="30" fill="#F7EFE4" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700">Tech stack</text>
-</svg>
